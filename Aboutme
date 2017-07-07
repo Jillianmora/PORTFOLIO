@@ -1,0 +1,28 @@
+<html>
+  <style>
+
+    h1 {text-align: center;
+      font-size: 100px;
+      margin-top: 67px ;
+      margin-bottom: 20px ;
+      text-decoration-color: crimson;
+    }
+    img {
+      height: 70%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      }
+      
+  </style>
+ 
+ <body background="https://newevolutiondesigns.com/images/freebies/black-white-background-2.jpg">
+  <h1>Jillian Mora</h1>
+    <img src="https://s-media-cache-ak0.pinimg.com/736x/f0/9b/5e/f09b5ec342ef3773d22b26ba426807e8--color-splash-pop-of-color.jpg"/
+    
+         <h2> BIOGRAPHY</h2>
+         <p>A little about me ??? Well... I live in Castro Valley, the first most recognized unincorporated area in the Bay and the "twenty-third most populus census-designated place in the US" with a population of a whopping 61,000 of eithor old people or young, regretful families that have more recently moved in. WOW does it sound like I am completely miserable living in Castro Valley. Well thats partially true. Its not that im miserable living in Castro Valley, its that in miserabele just living. I would be like this anywhere.  </p>
+  </body>
+ 
+</html>
+    
